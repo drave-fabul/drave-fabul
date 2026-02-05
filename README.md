@@ -1,7 +1,7 @@
 # Hello, I'm Drave
 <a href="https://www.linkedin.com/in/dryndravemfabul/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate about technology, problem-solving, and innovation, I specialize in IT infrastructure, system optimization, and end-user support. With hands-on experience in IT operations, I ensure seamless system performance while delivering top-tier technical assistance.
+Passionate about technology, problem-solving, and innovation. I specialize in IT infrastructure, system optimization, and end-user support. With hands-on experience in IT operations, I ensure seamless system performance while delivering top-tier technical assistance.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
