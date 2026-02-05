@@ -46,11 +46,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/dravefabul/8E39011D8A5DB18F?sharingId">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="75" />
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/dravefabul/3CEAA7AD91C0F8DB?sharingId">
+    <img src="https://images.credly.com/size/340x340/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="75" />
+</a>
+<a href="https://www.credly.com/badges/0f9228c9-88ef-447c-a14b-50ef90d1c2fd/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="75" />
+</a>
 </div>
 
 ## Projects
