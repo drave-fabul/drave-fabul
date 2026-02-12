@@ -3,6 +3,7 @@
 
 Passionate about technology, problem-solving, and innovation. I specialize in IT infrastructure, system optimization, and end-user support. With hands-on experience in IT operations, I ensure seamless system performance while delivering top-tier technical assistance.
 
+<!--
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
@@ -42,6 +43,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+-->
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
