@@ -58,6 +58,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/badges/0f9228c9-88ef-447c-a14b-50ef90d1c2fd/linked_in_profile">
     <img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="50" />
 </a>
+<a href="https://learn.microsoft.com/en-us/users/dravefabul/credentials/8d6d4d0144221025?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" />
+</a>
 </div>
 
 <!--
