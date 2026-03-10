@@ -47,7 +47,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/dravefabul/8E39011D8A5DB18F?sharingId">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="50" />
